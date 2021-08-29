@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Java.
 - 🌱 Estudando Front-End e PHP.
-- 😄 Pronouns: Ele/Dele.
+- 😄 Pronomes: Ele/Dele.
 
 ## Stats
 
