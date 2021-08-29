@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 🔭 Hoje trabalho com Java.
+- 🔭 Atualmente trabalho com Java.
 - 🌱 Estudando Front-End e PHP.
 - 😄 Pronomes: Ele/Dele.
 ## Stats
@@ -20,8 +20,6 @@
  
   <a href="https://www.linkedin.com/in/gabrielsales322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:salesgabriel311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   ##
-  
   ![Visitor Count](https://profile-counter.glitch.me/gabrielsalesls/count.svg)
 
