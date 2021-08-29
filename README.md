@@ -1,15 +1,12 @@
 ### Olá! 👋
-
 - 🔭 Hoje trabalho com Java.
 - 🌱 Estudando Front-End e PHP.
 - 😄 Pronomes: Ele/Dele.
-
 ## Stats
-
 <div>
   <a href="https://github.com/gabrielsalesls">
-  <img height="180em" width:"500px" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesls&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" width:"600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsalesls&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
 <div style="display: inline_block"><br>
