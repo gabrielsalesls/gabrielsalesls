@@ -1,6 +1,6 @@
 ### Olá! 👋
 - 🔭 Programador Junior, atualmente trabalho com Java.
-- 🌱 Estudando Front-End e PHP.
+- 🌱 Estudando Javascript para back e front-end.
 - 😄 Pronomes: Ele/Dele.
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&layout=compact&theme=dark&hide_border=true)
