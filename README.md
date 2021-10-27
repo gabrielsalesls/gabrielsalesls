@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 🔭 Programador Junior, atualmente trabalho com Java.
+- 🔭 Desenvolvedor Junior, atualmente trabalho com Java.
 - 🌱 Estudando Python e Javascript.
 - 😄 Pronomes: Ele/Dele.
 ## Stats
