@@ -1,6 +1,6 @@
 ### Olá! 👋
 - 🔭 Desenvolvedor Junior, atualmente trabalho com Java.
-- 🌱 Estudando Javascript e AWS.
+- 🌱 Estudando Javascript, Elixir e AWS.
 - 😄 Pronomes: Ele/Dele.
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&layout=compact&theme=dark&hide_border=true)
