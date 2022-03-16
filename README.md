@@ -10,7 +10,7 @@
   <img align="center" alt="Sales-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Sales-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Sales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sales-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+  <img align="center" alt="Sales-Elixir" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Sales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
