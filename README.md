@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Sales-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Sales-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Sales-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Sales-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Sales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="right" class="animated-gif" alt="Sales-rei" src="https://c.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif" width="250" height="200">
