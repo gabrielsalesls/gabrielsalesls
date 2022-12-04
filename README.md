@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 🔭 Desenvolvedor, atualmente trabalho com Java.
+- 🔭 Software engineer.
 - 🌱 AWS Cloud Practitioner.
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&layout=compact&theme=dark&hide_border=true)
