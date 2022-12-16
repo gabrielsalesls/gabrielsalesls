@@ -13,7 +13,10 @@
   <img align="center" alt="Sales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sales-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Sales-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sales-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  
   <img align="right" class="animated-gif" alt="Sales-rei" src="https://c.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif" width="250" height="200">
+  
 
 </div>
   
