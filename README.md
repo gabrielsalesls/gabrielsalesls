@@ -1,28 +1,56 @@
-### Olá! 👋
-- 🔭 Software engineer.
-- 🌱 I’m currently learning **Kotlin** and **AWS**
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&layout=compact&theme=dark&hide_border=true)
+### Hello 👋, I'm [Gabriel](https://www.linkedin.com/in/gabrielsales322/)!
 
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sales-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sales-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Sales-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Sales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sales-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Sales-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  
-  <img align="right" class="animated-gif" alt="Sales-rei" src="https://c.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif" width="250" height="200">
-  
+###
 
+<p align="left">Hi, I'm Gabriel, a Computer Technician and Software Engineer from Brazil. Enthusiastic about Cloud Computing and Computing Networks. Working with Back-end Development and DevOps.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+🔭 I’m currently working at IBM<br/>
+🌱 I’m currently learning Angular <br/>
+
+###
+
+<h2 align="left">Techs and tools</h2>
+
+<div style="display: inline_block">
+<img align="center" alt="java logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
+<img width="12" />
+<img align="center" alt="spring logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/spring/spring-original.svg">
+<img width="12" />
+<img align="center" alt="kotlin logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg">
+<img width="12" />
+<img align="center" alt="ktor logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ktor/ktor-original.svg">
+<img width="12" />
+<img align="center" alt="javascript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
+<img width="12" />
+<img align="center" alt="typescript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+<img width="12" />
+<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img width="12" />
+<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
+<img width="12" />
+<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+<img width="12" />
+<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
 </div>
-  
-   ##
- 
-  <a href="https://www.linkedin.com/in/gabrielsales322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto:salesgabriel311@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ##
-  ![Visitor Count](https://profile-counter.glitch.me/gabrielsalesls/count.svg)
 
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabrielsales322/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+---
+![](https://github-readme-stats.vercel.app/api?username=gabrielsalesls&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsalesls&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
