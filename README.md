@@ -11,7 +11,6 @@
 ###
 
 🔭 I’m currently working at IBM<br/>
-🌱 I’m currently learning Angular <br/>
 
 ###
 
@@ -26,17 +25,18 @@
 <img width="12" />
 <img align="center" alt="ktor logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ktor/ktor-original.svg">
 <img width="12" />
-<img align="center" alt="javascript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg">
+<img align="center" alt="postgresql logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
 <img width="12" />
-<img align="center" alt="typescript logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
+<img align="center" alt="bash logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
 <img width="12" />
-<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="grafana logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg">
 <img width="12" />
-<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
+<img align="center" alt="datadog logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/datadog/datadog-original.svg">
 <img width="12" />
-<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="opentelemetry logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opentelemetry/opentelemetry-original.svg">
 <img width="12" />
-<img align="center" alt="angular logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">
+<img align="center" alt="linux logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg">
+
 </div>
 
 ###
