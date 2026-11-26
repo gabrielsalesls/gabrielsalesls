@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Gabriel, a Computer Technician and Software Engineer from Brazil. Enthusiastic about Cloud Computing and Computing Networks. Working with Back-end Development and DevOps.</p>
+<p align="left">Hi, I'm Gabriel.</p>
 
 ###
 
