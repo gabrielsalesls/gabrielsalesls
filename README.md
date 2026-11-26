@@ -1,11 +1,5 @@
 ### Hello 👋, I'm [Gabriel](https://www.linkedin.com/in/gabrielsales322/)!
 
-###
-
-<p align="left">Hi, I'm Gabriel.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
